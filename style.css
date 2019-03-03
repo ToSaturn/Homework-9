@@ -1,0 +1,47 @@
+div {
+    margin-top: 5%;
+    border: 0.5px solid rgb(158, 158, 158);
+    text-align:center;
+    background: black;
+    margin-left: 35%;
+    margin-right: 56%;
+  
+    
+    
+}
+body{
+    background: black;
+}
+
+.word_1{
+    font-size: 400%;
+    font-family: 'Times', 'Times New Roman', serif;
+    color: rgb(70, 255, 215);
+}
+.word_2 {
+    font-size: 200%;
+    font-family: 'Times', 'Times New Roman', serif;
+    font-style: italic;
+    color: white;
+       
+}
+
+
+input{
+    width: 80%;
+    height: 70px;
+    background: black;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0.2px solid white;
+    color: white;
+    text-align: center;
+    font-size: 170%;
+    font-family: 'Times', 'Times New Roman', serif;
+    font-style: italic;
+    outline: none;
+    margin-left: 10%;
+    margin-top: 4%;
+
+}
